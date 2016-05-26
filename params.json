@@ -1,6 +1,6 @@
 {
-  "name": "Chenchaodev.GitHub.io",
-  "tagline": "index",
-  "body": "# chenchaodev.github.io\r\nblog test\r\n\r\nsadsadasd\r\n",
+  "name": "陈超",
+  "tagline": "resume",
+  "body": "### 个人信息\r\n- 男，1983 年 04 月\r\n- 2007 年 7 月毕业于北京大学物理学院，本科\r\n- 2014 年 7 月毕业于北京大学物理学院，等离子体物理专业，硕士\r\n \r\n### 求职意向\r\n- 数据分析方向，北京\r\n \r\n### 技能与评价\r\n- 熟悉 C++， python ， Qt，SQL，了解 R，shell, Spark\r\n- 了解网页分析，计算广告等知识\r\n- 熟悉决策树、逻辑回归、支持向量机、聚类等常见数据挖掘算法\r\n- 熟悉 NumPy， scikit-learn 等机器学习包\r\n- 可熟练开发 Windows， iOS 程序，有 Linux 开发经验\r\n- 较强的学习、理解能力\r\n \r\n### 相关项目经验\r\n- 在 Kaggle 上对多种数据挖掘算法进行了实践\r\n    - 参加 BNP Paribas Cardif Claims Management 竞赛\r\n        - 数据清理，处理缺失数据，对特征离散化。\r\n        - 选择特征，进行数据挖掘。\r\n        - 使用逻辑回归、决策树等多种算法进行数据挖掘。\r\n    - 参加 Expedia Hotel Recommendations 竞赛c\r\n        - 使用 sklearn, pandas包进行\r\n        - 进行数据清理，特征离散等工作\r\n        - 使用多种算法进行数据挖掘\r\n \r\n### 工作经历\r\n- 2014.7 - 今，邮政科学研究规划院，软件工程师\r\n    - 宏远物流首都机场跨境电商监管中心系统\r\n        - 项目内容：跨境电扇进口邮件的海关安检、分拣作业及后续处理模块\r\n        - 项目参与人员：30人（信息系统10人，硬件调试20人）\r\n        - 主要工作：独立完成海关安检部分信息系统的开发，包括以下方面\r\n            - 同屏比对系统的设计\r\n            - 信息接口调试（海关、分拣机系统接口）\r\n            - 安检机设备，PLC，邮件剔除装置，IO 控制卡，扫码枪，打印机等设备调用\r\n            - 数据库设计，存储过程，数据统计脚本\r\n        - 使用工具：Qt， PostgreSQL，Prodave 工控机程序\r\n    - 中国邮政国际普邮生产状况监控系统\r\n        - 项目内容：开发邮政集团运行数据监控系统\r\n        - 项目参与人员：6人\r\n        - 主要工作：独立完成 IOS 客户端的设计、开发工作\r\n            - 接口设计\r\n            - iOS 界面设计，调试\r\n            - 调用 WebService 接口\r\n            - 使用柱状图、饼图等显示数据\r\n        - 使用工具： Xcode\r\n    - 邮政小包自动收寄系统\r\n        - 项目内容：通过条码识别设备和电子秤，自动完成大宗邮件的收寄、扣费工作\r\n        - 项目参与人员：20人（信息系统5人，硬件部分15人）\r\n        - 主要工作：硬件信息采集和内部逻辑处理和界面设计\r\n            - 设备接口调试（电子秤、OBR（条码识别），PLC）\r\n            - 程序界面设计，开发",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
